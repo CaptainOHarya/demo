@@ -7,6 +7,7 @@ public class MyFamily {
         System.out.println("Алексей");
         System.out.println("Ольга");
         System.out.println("Екатеринка");
+        System.out.println("Татьянка");
 dsddfdf
     }
 }
